@@ -7,6 +7,6 @@ Tämä on Rikun, Otson ja Muhsenin AW Academy -lopputyöhön kuuluva konsolisove
 - Kääntää kuvat tunnedataksi Azuren Cognitive Services -rajapinnassa
 - Lähettää tunnedatan projektin rajapinnan kautta tietokantaan
 - Poistaa käsitellyt kuvat
-- Luo tähän prosessiin tarvittavat tiedostot, kansiot ja skriptit
+- Luo edellä mainittuihin prosesseihin tarvittavat tiedostot, kansiot ja skriptit
 
 Sovellus on tehty .NET Core :lla.
